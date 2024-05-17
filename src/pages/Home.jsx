@@ -1,7 +1,7 @@
 import React from 'react'
 import waves from '../assets/waves.svg'
 import FlipCard from '../components/FlipCard'
-import {MdElectricBolt, MdFoggy} from 'react-icons/md'
+import {MdFoggy} from 'react-icons/md'
 import {GiWhirlwind, GiSnake} from 'react-icons/gi'
 import ReactSelect from 'react-select'
 import muichiro from '../assets/Muichiro.png'
@@ -37,7 +37,7 @@ const Home = () => {
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-30">
                   <GiWhirlwind className='w-24 h-24 text-green-300'/>
                   <h1 className="text-center">
-                    Hello
+                    Sanemi
                   </h1>
                 </div>
                 </div>
