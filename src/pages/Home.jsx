@@ -37,7 +37,7 @@ const Home = () => {
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-30">
                   <GiWhirlwind className='w-24 h-24 text-green-300'/>
                   <h1 className="text-center">
-                    Sanemi
+                    Hello
                   </h1>
                 </div>
                 </div>
